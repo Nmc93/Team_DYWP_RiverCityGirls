@@ -160,7 +160,7 @@ public:
 	void setCam(camera* cam) { _cam = cam; } //카메라 받아오기
 	void setPixel(image* pixelimage) { _pixelImage = pixelimage; }	//픽셀 이미지 받아오기
 	
-																	
+    //														
 																	
 	// 플레이어 실험용으로 만듬 Jo
 	int getAttNum() { return attNum; }		//공격 타입
